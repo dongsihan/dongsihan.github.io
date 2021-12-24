@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6682542",
+      "name": "个人简介",
+      "font_class": "gerenjianjie",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8763650",
+      "name": "绘画",
+      "font_class": "huihua",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "11391542",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11459691",
+      "name": "话筒表演路演",
+      "font_class": "huatongbiaoyanluyan",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "14421639",
+      "name": "画笔",
+      "font_class": "huabi_huaban1",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    }
+  ]
+}
